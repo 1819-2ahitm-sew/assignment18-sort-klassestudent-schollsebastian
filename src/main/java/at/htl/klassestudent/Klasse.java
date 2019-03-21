@@ -4,9 +4,6 @@ public class Klasse {
     private int klassenbezeichnung;
     private Student[] students;
 
-    Klasse() {
-    }
-
     Klasse(int klassenbezeichnung, Student[] students) {
         this.klassenbezeichnung = klassenbezeichnung;
         this.students = students;
